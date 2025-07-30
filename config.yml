@@ -2,7 +2,7 @@ app:
   name: streamlink
   rel: 1
 git:
-  repo: https://github.com/streamlink/streamlink.git
+  repo: https://github.com/kumaraguru1735/streamlink-drm.git
   ref: 7.5.0
 assets:
   ffmpeg-x86_64:
